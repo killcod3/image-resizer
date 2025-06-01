@@ -4,7 +4,7 @@ A fast, private image resizer and optimizer that processes images directly in yo
 
 ## 🚀 Live Demo
 
-[Image Resizer App](LINK)
+[Image Resizer App](https://image-resizer-indol.vercel.app/resize)
 
 ## 📝 Description
 

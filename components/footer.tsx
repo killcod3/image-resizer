@@ -10,7 +10,7 @@ export default function Footer() {
         <Separator className="mb-6" />
         <div className="flex flex-col md:flex-row justify-between items-center gap-4">
           <div className="text-sm text-muted-foreground">
-            © 2024 All Rights Reserved
+            © 2025 All Rights Reserved
           </div>
           <div className="flex items-center gap-6">
             <a 
